@@ -8,7 +8,7 @@ render: (output) ->
 style: """
   -webkit-font-smoothing: antialiased
   color: #D8DEE9
-  font: 9px Menlo
+  font: 14px Menlo
   top: 16px
   width: 100%
 
