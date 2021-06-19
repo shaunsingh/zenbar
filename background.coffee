@@ -15,5 +15,5 @@ style: """
   background-color: #2E3440
   opacity: 1.0
   z-index: -1
-  box-shadow: 2px 2px 2px 2px rgba(116, 116, 124, 1)
+  box-shadow: 2px 2px 6px 0px rgba(116, 116, 124, 1)
 """
